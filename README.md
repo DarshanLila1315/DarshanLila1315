@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I’m a Full-Stack Developer with strong frontend skills and a deep interest in backend architecture. I enjoy building clean, user-friendly interfaces and connecting them with reliable, efficient server-side logic.<br><br>I focus on writing clean, maintainable code, creating smooth frontend–backend integration, and ensuring accurate data flow from database to screen. I love learning new technologies and continuously improving the performance and structure of my applications.<br><br>🔭 Currently working on web projects<br><br>🤝 Open to collaboration on web applications<br><br>🌱 Learning advanced backend concepts & system design<br><br>💬 Ask me about frontend, backend, or full-stack development<br><br>⚡ Fun fact: I enjoy fixing bugs more than writing new features 😄
+I’m a Full-Stack Developer with strong frontend skills and a deep interest in backend architecture. I enjoy building clean, user-friendly interfaces and connecting them with reliable, efficient server-side logic.<br><br>I focus on writing clean, maintainable code, creating smooth frontend–backend integration, and ensuring accurate data flow from database to screen. I love learning new technologies and continuously improving the performance and structure of my applications.<br><br>🔭 Currently working on web projects<br><br>🤝 Open to collaboration on web applications<br><br>🌱 Learning advanced backend concepts & system design<br><br><br>⚡ Fun fact: I enjoy fixing bugs more than writing new features 😄
 
 
 ## 🌐 Socials:
