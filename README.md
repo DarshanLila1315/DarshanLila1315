@@ -1,6 +1,96 @@
+# 👋 Hi, I'm Darshan Lila
 
-# 💫 About Me:
-I’m a Full-Stack Developer with strong frontend skills and a deep interest in backend architecture. I enjoy building clean, user-friendly interfaces and connecting them with reliable, efficient server-side logic.<br><br>I focus on writing clean, maintainable code, creating smooth frontend–backend integration, and ensuring accurate data flow from database to screen. I love learning new technologies and continuously improving the performance and structure of my applications.<br><br>🔭 Currently working on web projects<br><br>🤝 Open to collaboration on web applications<br><br>🌱 Learning advanced backend concepts & system design<br><br><br>⚡ Fun fact: I enjoy fixing bugs more than writing new features 😄
+<div align="center">
+
+### 🚀 Full Stack .NET Developer | Flutter Developer | B.Tech (D2D) Computer Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+.NET+Developer;Flutter+Developer;ASP.NET+Core+MVC+Developer;SQL+Server+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies!" />
+
+<img src="https://komarev.com/ghpvc/?username=DarshanLila1315&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 Completed **Diploma in Computer Engineering**
+
+🎓 Currently pursuing **B.Tech (Computer Engineering) – Diploma to Degree (D2D)**
+
+💻 Passionate about building scalable web applications and cross-platform mobile apps.
+
+🚀 I enjoy developing complete software solutions—from designing intuitive user interfaces to implementing secure, efficient backend systems.
+
+🌱 Currently learning:
+
+* ASP.NET Core MVC
+* React
+* Flutter
+* SQL Server
+* Python
+* Data Structures & Algorithms
+* System Design
+* GATE CSE Preparation
+
+👨‍💻 Currently building real-world software projects.
+
+🤝 Open to internships, collaborations, and open-source contributions.
+
+⚡ **Fun Fact:** I enjoy debugging complex problems more than writing new features. 😄
+
+---
+
+# 🚀 Featured Projects
+
+## 📦 Inventory Management System
+
+**ASP.NET Core MVC • SQL Server • Three Layer Architecture**
+
+✔ Inventory Management
+
+✔ Stock Tracking
+
+✔ Product & Category Management
+
+✔ Authentication & Authorization
+
+✔ Reports
+
+🔗 **Repository:**
+https://github.com/DarshanLila1315/ASP.NET-Project
+
+---
+
+## 💼 Interview Question Practice System
+
+**ASP.NET Core MVC • SQL Server**
+
+✔ Subject-wise Questions
+
+✔ Topic-wise Practice
+
+✔ Admin Panel
+
+✔ Question Management
+
+---
+
+## 📱 Flutter Projects
+
+**Flutter • Dart • Firebase**
+
+✔ Modern UI
+
+✔ Authentication
+
+✔ Responsive Design
+
+🔗 **Repository:**
+https://github.com/DarshanLila1315/Flutter-Project
+
+---
+
 
 
 ## 🌐 Socials:
@@ -18,6 +108,8 @@ I’m a Full-Stack Developer with strong frontend skills and a deep interest in 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DarshanLila1315&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
+### ⭐ *"Learn Every Day • Build Real Projects • Grow Continuously"*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
